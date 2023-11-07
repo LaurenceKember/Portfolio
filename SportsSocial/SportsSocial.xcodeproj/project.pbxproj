@@ -1,0 +1,592 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52181C8B2A8F7F6300B0A2CB /* ActivityViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52181C8A2A8F7F6300B0A2CB /* ActivityViewModel.swift */; };
+		5238171B2A7A922F00C56133 /* ConnectionsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5238171A2A7A922F00C56133 /* ConnectionsViewModel.swift */; };
+		5238171D2A7A924500C56133 /* ConnectionsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5238171C2A7A924500C56133 /* ConnectionsModel.swift */; };
+		523BA4B82A94F67B005D1F95 /* MainScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 523BA4B72A94F67B005D1F95 /* MainScreenView.swift */; };
+		523BA4BA2A950C63005D1F95 /* ProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 523BA4B92A950C63005D1F95 /* ProfileViewModel.swift */; };
+		5243A54B2A839F7D003BCEE2 /* ChatListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5243A54A2A839F7D003BCEE2 /* ChatListViewModel.swift */; };
+		5243A54D2A839F88003BCEE2 /* ChatListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5243A54C2A839F88003BCEE2 /* ChatListModel.swift */; };
+		52567A312A6FE78F0080BFBA /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52567A302A6FE78F0080BFBA /* LocationManager.swift */; };
+		52567A332A711EA40080BFBA /* POIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52567A322A711EA40080BFBA /* POIModel.swift */; };
+		52567A352A7125DD0080BFBA /* POIViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52567A342A7125DD0080BFBA /* POIViewModel.swift */; };
+		526647A02A435A0600731E3E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5266479F2A435A0600731E3E /* AppDelegate.swift */; };
+		5267AEEA2A41C8F0003BA40E /* SportsSocialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5267AEE92A41C8F0003BA40E /* SportsSocialApp.swift */; };
+		5267AEEC2A41C8F0003BA40E /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5267AEEB2A41C8F0003BA40E /* SplashView.swift */; };
+		5267AEEE2A41C8F1003BA40E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5267AEED2A41C8F1003BA40E /* Assets.xcassets */; };
+		5267AEF12A41C8F1003BA40E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5267AEF02A41C8F1003BA40E /* Preview Assets.xcassets */; };
+		5267AEF32A41C8F1003BA40E /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5267AEF22A41C8F1003BA40E /* Persistence.swift */; };
+		5267AEF62A41C8F1003BA40E /* SportsSocial.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5267AEF42A41C8F1003BA40E /* SportsSocial.xcdatamodeld */; };
+		526A18E52A8E1AF900FA751E /* HomeScreenViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526A18E42A8E1AF900FA751E /* HomeScreenViewModel.swift */; };
+		526A18E72A8E1B0700FA751E /* ActivityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 526A18E62A8E1B0700FA751E /* ActivityModel.swift */; };
+		5270DEE32A5D561500A9EACB /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5270DEE22A5D561500A9EACB /* GoogleService-Info.plist */; };
+		527B58CE2A853CDD002A8610 /* ChatViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527B58CD2A853CDD002A8610 /* ChatViewModel.swift */; };
+		527B58D02A853D03002A8610 /* ChatModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527B58CF2A853D03002A8610 /* ChatModel.swift */; };
+		5281B7312A66D79300512E1F /* SportsListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5281B7302A66D79300512E1F /* SportsListModel.swift */; };
+		5281B7332A681CC700512E1F /* SportsListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5281B7322A681CC700512E1F /* SportsListViewModel.swift */; };
+		5287E7CE2A4D93C0007A73D7 /* LogInViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5287E7CD2A4D93C0007A73D7 /* LogInViewModel.swift */; };
+		5287E7D02A4D93D1007A73D7 /* LogInModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5287E7CF2A4D93D1007A73D7 /* LogInModel.swift */; };
+		5287E7D22A4DC5EB007A73D7 /* SignUpViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5287E7D12A4DC5EB007A73D7 /* SignUpViewModel.swift */; };
+		5287E7D42A4DC5F6007A73D7 /* SignUpModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5287E7D32A4DC5F6007A73D7 /* SignUpModel.swift */; };
+		52FBF1102A4ADAF7008E71A3 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 52FBF10F2A4ADAF7008E71A3 /* FirebaseAuth */; };
+		52FBF1122A4ADAF7008E71A3 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 52FBF1112A4ADAF7008E71A3 /* FirebaseFirestoreSwift */; };
+		52FBF11A2A4B3673008E71A3 /* LogInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF1192A4B3673008E71A3 /* LogInView.swift */; };
+		52FBF11C2A4B3680008E71A3 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF11B2A4B3680008E71A3 /* SignUpView.swift */; };
+		52FBF11E2A4B3687008E71A3 /* SportsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF11D2A4B3687008E71A3 /* SportsListView.swift */; };
+		52FBF1202A4B369C008E71A3 /* HomeScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF11F2A4B369C008E71A3 /* HomeScreenView.swift */; };
+		52FBF1262A4B36BF008E71A3 /* AddActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF1252A4B36BF008E71A3 /* AddActivityView.swift */; };
+		52FBF1282A4B36C7008E71A3 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF1272A4B36C7008E71A3 /* ProfileView.swift */; };
+		52FBF12A2A4B36D6008E71A3 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF1292A4B36D6008E71A3 /* MapView.swift */; };
+		52FBF12C2A4B36DF008E71A3 /* MapDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF12B2A4B36DF008E71A3 /* MapDetailView.swift */; };
+		52FBF12E2A4B36E7008E71A3 /* ChatListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF12D2A4B36E7008E71A3 /* ChatListView.swift */; };
+		52FBF1302A4B36EE008E71A3 /* ChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF12F2A4B36EE008E71A3 /* ChatView.swift */; };
+		52FBF1322A4B36F6008E71A3 /* ConnectionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52FBF1312A4B36F6008E71A3 /* ConnectionsView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52181C8A2A8F7F6300B0A2CB /* ActivityViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityViewModel.swift; sourceTree = "<group>"; };
+		5238171A2A7A922F00C56133 /* ConnectionsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectionsViewModel.swift; sourceTree = "<group>"; };
+		5238171C2A7A924500C56133 /* ConnectionsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectionsModel.swift; sourceTree = "<group>"; };
+		523BA4B72A94F67B005D1F95 /* MainScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreenView.swift; sourceTree = "<group>"; };
+		523BA4B92A950C63005D1F95 /* ProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewModel.swift; sourceTree = "<group>"; };
+		5243A54A2A839F7D003BCEE2 /* ChatListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatListViewModel.swift; sourceTree = "<group>"; };
+		5243A54C2A839F88003BCEE2 /* ChatListModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatListModel.swift; sourceTree = "<group>"; };
+		524CD59D2A4C5F35008078FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		52567A302A6FE78F0080BFBA /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		52567A322A711EA40080BFBA /* POIModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POIModel.swift; sourceTree = "<group>"; };
+		52567A342A7125DD0080BFBA /* POIViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = POIViewModel.swift; sourceTree = "<group>"; };
+		5266479F2A435A0600731E3E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		5267AEE62A41C8F0003BA40E /* SportsSocial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SportsSocial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5267AEE92A41C8F0003BA40E /* SportsSocialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsSocialApp.swift; sourceTree = "<group>"; };
+		5267AEEB2A41C8F0003BA40E /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		5267AEED2A41C8F1003BA40E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5267AEF02A41C8F1003BA40E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5267AEF22A41C8F1003BA40E /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		5267AEF52A41C8F1003BA40E /* SportsSocial.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SportsSocial.xcdatamodel; sourceTree = "<group>"; };
+		526A18E42A8E1AF900FA751E /* HomeScreenViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreenViewModel.swift; sourceTree = "<group>"; };
+		526A18E62A8E1B0700FA751E /* ActivityModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityModel.swift; sourceTree = "<group>"; };
+		5270DEE22A5D561500A9EACB /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		527B58CD2A853CDD002A8610 /* ChatViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewModel.swift; sourceTree = "<group>"; };
+		527B58CF2A853D03002A8610 /* ChatModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatModel.swift; sourceTree = "<group>"; };
+		5281B7302A66D79300512E1F /* SportsListModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsListModel.swift; sourceTree = "<group>"; };
+		5281B7322A681CC700512E1F /* SportsListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsListViewModel.swift; sourceTree = "<group>"; };
+		5287E7CD2A4D93C0007A73D7 /* LogInViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewModel.swift; sourceTree = "<group>"; };
+		5287E7CF2A4D93D1007A73D7 /* LogInModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInModel.swift; sourceTree = "<group>"; };
+		5287E7D12A4DC5EB007A73D7 /* SignUpViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewModel.swift; sourceTree = "<group>"; };
+		5287E7D32A4DC5F6007A73D7 /* SignUpModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpModel.swift; sourceTree = "<group>"; };
+		52FBF1192A4B3673008E71A3 /* LogInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInView.swift; sourceTree = "<group>"; };
+		52FBF11B2A4B3680008E71A3 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		52FBF11D2A4B3687008E71A3 /* SportsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsListView.swift; sourceTree = "<group>"; };
+		52FBF11F2A4B369C008E71A3 /* HomeScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreenView.swift; sourceTree = "<group>"; };
+		52FBF1252A4B36BF008E71A3 /* AddActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddActivityView.swift; sourceTree = "<group>"; };
+		52FBF1272A4B36C7008E71A3 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		52FBF1292A4B36D6008E71A3 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		52FBF12B2A4B36DF008E71A3 /* MapDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapDetailView.swift; sourceTree = "<group>"; };
+		52FBF12D2A4B36E7008E71A3 /* ChatListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatListView.swift; sourceTree = "<group>"; };
+		52FBF12F2A4B36EE008E71A3 /* ChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
+		52FBF1312A4B36F6008E71A3 /* ConnectionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectionsView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5267AEE32A41C8F0003BA40E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52FBF1102A4ADAF7008E71A3 /* FirebaseAuth in Frameworks */,
+				52FBF1122A4ADAF7008E71A3 /* FirebaseFirestoreSwift in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5266479E2A4359EC00731E3E /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				5266479F2A435A0600731E3E /* AppDelegate.swift */,
+				52567A302A6FE78F0080BFBA /* LocationManager.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		5267AEDD2A41C8F0003BA40E = {
+			isa = PBXGroup;
+			children = (
+				5267AEE82A41C8F0003BA40E /* SportsSocial */,
+				5267AEE72A41C8F0003BA40E /* Products */,
+				52FBF10B2A4AD7A6008E71A3 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		5267AEE72A41C8F0003BA40E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5267AEE62A41C8F0003BA40E /* SportsSocial.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5267AEE82A41C8F0003BA40E /* SportsSocial */ = {
+			isa = PBXGroup;
+			children = (
+				524CD59D2A4C5F35008078FD /* Info.plist */,
+				5270DEE22A5D561500A9EACB /* GoogleService-Info.plist */,
+				5267AEE92A41C8F0003BA40E /* SportsSocialApp.swift */,
+				5266479E2A4359EC00731E3E /* Utilities */,
+				529DCF7B2A420A8D004FA8B4 /* Views */,
+				529DCF962A420C89004FA8B4 /* ViewModels */,
+				529DCF972A420C9E004FA8B4 /* Models */,
+				529DCF982A420D56004FA8B4 /* Services */,
+				5267AEED2A41C8F1003BA40E /* Assets.xcassets */,
+				5267AEF22A41C8F1003BA40E /* Persistence.swift */,
+				5267AEF42A41C8F1003BA40E /* SportsSocial.xcdatamodeld */,
+				5267AEEF2A41C8F1003BA40E /* Preview Content */,
+			);
+			path = SportsSocial;
+			sourceTree = "<group>";
+			usesTabs = 0;
+		};
+		5267AEEF2A41C8F1003BA40E /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				5267AEF02A41C8F1003BA40E /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		529DCF7B2A420A8D004FA8B4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5267AEEB2A41C8F0003BA40E /* SplashView.swift */,
+				52FBF1192A4B3673008E71A3 /* LogInView.swift */,
+				52FBF11B2A4B3680008E71A3 /* SignUpView.swift */,
+				52FBF11D2A4B3687008E71A3 /* SportsListView.swift */,
+				523BA4B72A94F67B005D1F95 /* MainScreenView.swift */,
+				52FBF11F2A4B369C008E71A3 /* HomeScreenView.swift */,
+				52FBF1252A4B36BF008E71A3 /* AddActivityView.swift */,
+				52FBF1312A4B36F6008E71A3 /* ConnectionsView.swift */,
+				52FBF12D2A4B36E7008E71A3 /* ChatListView.swift */,
+				52FBF12F2A4B36EE008E71A3 /* ChatView.swift */,
+				52FBF1292A4B36D6008E71A3 /* MapView.swift */,
+				52FBF12B2A4B36DF008E71A3 /* MapDetailView.swift */,
+				52FBF1272A4B36C7008E71A3 /* ProfileView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		529DCF962A420C89004FA8B4 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				5287E7CD2A4D93C0007A73D7 /* LogInViewModel.swift */,
+				5287E7D12A4DC5EB007A73D7 /* SignUpViewModel.swift */,
+				5281B7322A681CC700512E1F /* SportsListViewModel.swift */,
+				526A18E42A8E1AF900FA751E /* HomeScreenViewModel.swift */,
+				52181C8A2A8F7F6300B0A2CB /* ActivityViewModel.swift */,
+				5238171A2A7A922F00C56133 /* ConnectionsViewModel.swift */,
+				5243A54A2A839F7D003BCEE2 /* ChatListViewModel.swift */,
+				527B58CD2A853CDD002A8610 /* ChatViewModel.swift */,
+				52567A342A7125DD0080BFBA /* POIViewModel.swift */,
+				523BA4B92A950C63005D1F95 /* ProfileViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		529DCF972A420C9E004FA8B4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				5287E7CF2A4D93D1007A73D7 /* LogInModel.swift */,
+				5287E7D32A4DC5F6007A73D7 /* SignUpModel.swift */,
+				5281B7302A66D79300512E1F /* SportsListModel.swift */,
+				526A18E62A8E1B0700FA751E /* ActivityModel.swift */,
+				5238171C2A7A924500C56133 /* ConnectionsModel.swift */,
+				5243A54C2A839F88003BCEE2 /* ChatListModel.swift */,
+				527B58CF2A853D03002A8610 /* ChatModel.swift */,
+				52567A322A711EA40080BFBA /* POIModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		529DCF982A420D56004FA8B4 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		52FBF10B2A4AD7A6008E71A3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5267AEE52A41C8F0003BA40E /* SportsSocial */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5267AEF92A41C8F1003BA40E /* Build configuration list for PBXNativeTarget "SportsSocial" */;
+			buildPhases = (
+				5267AEE22A41C8F0003BA40E /* Sources */,
+				5267AEE32A41C8F0003BA40E /* Frameworks */,
+				5267AEE42A41C8F0003BA40E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SportsSocial;
+			packageProductDependencies = (
+				52FBF10F2A4ADAF7008E71A3 /* FirebaseAuth */,
+				52FBF1112A4ADAF7008E71A3 /* FirebaseFirestoreSwift */,
+			);
+			productName = SportsSocial;
+			productReference = 5267AEE62A41C8F0003BA40E /* SportsSocial.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5267AEDE2A41C8F0003BA40E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					5267AEE52A41C8F0003BA40E = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 5267AEE12A41C8F0003BA40E /* Build configuration list for PBXProject "SportsSocial" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5267AEDD2A41C8F0003BA40E;
+			packageReferences = (
+				52FBF10E2A4ADAF7008E71A3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
+			productRefGroup = 5267AEE72A41C8F0003BA40E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5267AEE52A41C8F0003BA40E /* SportsSocial */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5267AEE42A41C8F0003BA40E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5267AEF12A41C8F1003BA40E /* Preview Assets.xcassets in Resources */,
+				5267AEEE2A41C8F1003BA40E /* Assets.xcassets in Resources */,
+				5270DEE32A5D561500A9EACB /* GoogleService-Info.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5267AEE22A41C8F0003BA40E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5243A54D2A839F88003BCEE2 /* ChatListModel.swift in Sources */,
+				52FBF11A2A4B3673008E71A3 /* LogInView.swift in Sources */,
+				527B58D02A853D03002A8610 /* ChatModel.swift in Sources */,
+				5287E7D02A4D93D1007A73D7 /* LogInModel.swift in Sources */,
+				52567A312A6FE78F0080BFBA /* LocationManager.swift in Sources */,
+				52FBF1282A4B36C7008E71A3 /* ProfileView.swift in Sources */,
+				5287E7D42A4DC5F6007A73D7 /* SignUpModel.swift in Sources */,
+				5267AEF32A41C8F1003BA40E /* Persistence.swift in Sources */,
+				52FBF12E2A4B36E7008E71A3 /* ChatListView.swift in Sources */,
+				5267AEEC2A41C8F0003BA40E /* SplashView.swift in Sources */,
+				52567A332A711EA40080BFBA /* POIModel.swift in Sources */,
+				52FBF1202A4B369C008E71A3 /* HomeScreenView.swift in Sources */,
+				5267AEEA2A41C8F0003BA40E /* SportsSocialApp.swift in Sources */,
+				5243A54B2A839F7D003BCEE2 /* ChatListViewModel.swift in Sources */,
+				52567A352A7125DD0080BFBA /* POIViewModel.swift in Sources */,
+				52FBF12A2A4B36D6008E71A3 /* MapView.swift in Sources */,
+				526A18E52A8E1AF900FA751E /* HomeScreenViewModel.swift in Sources */,
+				526647A02A435A0600731E3E /* AppDelegate.swift in Sources */,
+				5267AEF62A41C8F1003BA40E /* SportsSocial.xcdatamodeld in Sources */,
+				523BA4BA2A950C63005D1F95 /* ProfileViewModel.swift in Sources */,
+				523BA4B82A94F67B005D1F95 /* MainScreenView.swift in Sources */,
+				526A18E72A8E1B0700FA751E /* ActivityModel.swift in Sources */,
+				5287E7CE2A4D93C0007A73D7 /* LogInViewModel.swift in Sources */,
+				5287E7D22A4DC5EB007A73D7 /* SignUpViewModel.swift in Sources */,
+				5281B7312A66D79300512E1F /* SportsListModel.swift in Sources */,
+				52FBF12C2A4B36DF008E71A3 /* MapDetailView.swift in Sources */,
+				52FBF1322A4B36F6008E71A3 /* ConnectionsView.swift in Sources */,
+				52FBF1302A4B36EE008E71A3 /* ChatView.swift in Sources */,
+				52FBF11C2A4B3680008E71A3 /* SignUpView.swift in Sources */,
+				52FBF1262A4B36BF008E71A3 /* AddActivityView.swift in Sources */,
+				527B58CE2A853CDD002A8610 /* ChatViewModel.swift in Sources */,
+				52FBF11E2A4B3687008E71A3 /* SportsListView.swift in Sources */,
+				5281B7332A681CC700512E1F /* SportsListViewModel.swift in Sources */,
+				5238171D2A7A924500C56133 /* ConnectionsModel.swift in Sources */,
+				5238171B2A7A922F00C56133 /* ConnectionsViewModel.swift in Sources */,
+				52181C8B2A8F7F6300B0A2CB /* ActivityViewModel.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5267AEF72A41C8F1003BA40E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5267AEF82A41C8F1003BA40E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5267AEFA2A41C8F1003BA40E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SportsSocial/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				"FRAMEWORK_SEARCH_PATHS[arch=*]" = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = SportsSocial/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "This app requires access to the device's location";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app requires access to the device's location";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = UoW.SportsSocial;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5267AEFB2A41C8F1003BA40E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SportsSocial/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				HEADER_SEARCH_PATHS = "";
+				INFOPLIST_FILE = SportsSocial/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "This app requires access to the device's location";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app requires access to the device's location";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = UoW.SportsSocial;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5267AEE12A41C8F0003BA40E /* Build configuration list for PBXProject "SportsSocial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5267AEF72A41C8F1003BA40E /* Debug */,
+				5267AEF82A41C8F1003BA40E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5267AEF92A41C8F1003BA40E /* Build configuration list for PBXNativeTarget "SportsSocial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5267AEFA2A41C8F1003BA40E /* Debug */,
+				5267AEFB2A41C8F1003BA40E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		52FBF10E2A4ADAF7008E71A3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		52FBF10F2A4ADAF7008E71A3 /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 52FBF10E2A4ADAF7008E71A3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		52FBF1112A4ADAF7008E71A3 /* FirebaseFirestoreSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 52FBF10E2A4ADAF7008E71A3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestoreSwift;
+		};
+/* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		5267AEF42A41C8F1003BA40E /* SportsSocial.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				5267AEF52A41C8F1003BA40E /* SportsSocial.xcdatamodel */,
+			);
+			currentVersion = 5267AEF52A41C8F1003BA40E /* SportsSocial.xcdatamodel */;
+			path = SportsSocial.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 5267AEDE2A41C8F0003BA40E /* Project object */;
+}
