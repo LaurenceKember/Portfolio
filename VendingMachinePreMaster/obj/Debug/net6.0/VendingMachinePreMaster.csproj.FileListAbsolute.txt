@@ -1,0 +1,15 @@
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/bin/Debug/net6.0/VendingMachinePreMaster
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/bin/Debug/net6.0/VendingMachinePreMaster.deps.json
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/bin/Debug/net6.0/VendingMachinePreMaster.runtimeconfig.json
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/bin/Debug/net6.0/VendingMachinePreMaster.dll
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/bin/Debug/net6.0/VendingMachinePreMaster.pdb
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/obj/Debug/net6.0/VendingMachinePreMaster.csproj.AssemblyReference.cache
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/obj/Debug/net6.0/VendingMachinePreMaster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/obj/Debug/net6.0/VendingMachinePreMaster.AssemblyInfoInputs.cache
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/obj/Debug/net6.0/VendingMachinePreMaster.AssemblyInfo.cs
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/obj/Debug/net6.0/VendingMachinePreMaster.csproj.CoreCompileInputs.cache
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/obj/Debug/net6.0/VendingMachinePreMaster.dll
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/obj/Debug/net6.0/refint/VendingMachinePreMaster.dll
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/obj/Debug/net6.0/VendingMachinePreMaster.pdb
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/obj/Debug/net6.0/VendingMachinePreMaster.genruntimeconfig.cache
+/Users/larryk/Documents/Portfolio/VendingMachinePreMaster/obj/Debug/net6.0/ref/VendingMachinePreMaster.dll
