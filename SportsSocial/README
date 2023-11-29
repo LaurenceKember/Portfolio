@@ -1,0 +1,9 @@
+Log in for existing users follows the following format
+Email: usersFirstName@test.com
+e.g. laurence@test.com
+Password: usersFirstName123
+e.g. laurence123
+
+NB: 
+Users will only be recommended other users to connect with if those other users are within a 5km radius.
+If no users are showing in the connections view then manually amend the device location to the following coordinates: 51.41827063431852, -0.1773769056990161
