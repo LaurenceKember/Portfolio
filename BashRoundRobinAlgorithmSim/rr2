@@ -1,0 +1,153 @@
+#!/bin/bash
+
+file=$1
+
+if [ $# != 1 ] #tests for only one positional parameter
+then
+	echo "Please only provide one file"
+	exit 1
+fi
+
+if [ -f $1 ] #tests is valid file is provided
+then
+	echo "Valid file provided"
+else
+	echo "Please provide a valid file"
+	exit 2
+fi
+
+array=($(cat "$file")) #takes the values within the file and puts them into a 1D array
+
+
+g=0
+h=0
+
+for (( g=0; g<${#array[*]}; g=g+3 )) #extracts the process names
+do
+	Proarray[h]=${array[g]}
+	((h=h+1))
+done
+
+echo " " ${Proarray[*]} #prints the process names as headers with a space at the start for t
+echo " " ${Proarray[*]} >> output4  #also outputs the data to text file
+Qarray=()
+printarray=()
+i=1
+t=0
+
+for (( t=0; t<1; t=t+1 )) #loop for time 0 to allow first process to enter at running
+do
+	for (( i=1; i<${#array[*]}; i=i+3 )) #loop through each AT within the original array
+	do
+		if (( ${array[i]} == $t )) #testing if AT==t
+		then
+			Qarray+=("${array[i-1]}") #adding process to queue if AT=t
+			array[i]="W" #amending the AT to process status W
+		fi
+	
+	done
+	j=0
+	for (( j=0; j<${#array[*]}; j=j+3 )) #loop through each process in original array
+	do
+		if test "${Qarray[$t]}" = "${array[j]}" -a "${array[j+2]}" -gt 0 #test if process is at front of queue and that AT>0
+		then
+			array[j+1]="R" #amend process to "R"
+			(( array[j+2]=${array[j+2]} - 1 )) #decrement AT by 1
+		fi
+	done
+	
+k=1
+
+for (( k=1; k<${#array[*]}; k=k+3 )) #looping over elements in the array to find values of "R"
+do
+	if test ${array[k]} = "R"
+	then
+		printarray+=("R")
+	else
+		printarray+=("-") 
+	fi
+done
+
+echo $t ${printarray[@]}  #print the statuses of the processes and outputs to file
+echo $t ${printarray[@]} >> output4
+printarray=() #clear the print array for the next loop
+done
+
+count=0
+sumNUT=0
+s=2
+for (( s=2; s<${#array[*]}; s=s+3 ))
+do
+	(( sumNUT=sumNUT+${array[s]} )) #find the total NUT time remaining 
+done
+
+#####################################################################################
+while (( $sumNUT>=-2 ))
+do
+
+	for (( i=1; i<${#array[*]}; i=i+3 )) #loop through each AT within the original array
+	do
+		if (( ${array[i]} == $t )) #testing if AT==t
+		then
+			Qarray+=("${array[i-1]}") #adding process to queue if AT=t
+			array[i]="W" #amending the AT to process status W
+		fi
+	done
+
+	l=0
+	for (( l=0; l<${#array[*]}; l=l+3 )) #loop through each process in original array
+	do
+		if test "${Qarray[$count]}" = "${array[l]}" -a "${array[l+2]}" -gt 0 #test if process already running is in
+										    #front of the waiting process and that AT>0
+		then
+			(( array[l+2]=${array[l+2]} - 1 )) #decrement AT of running process by 1
+			array[l+1]="R"
+		fi
+	done
+
+m=0
+for (( m=1; m<${#array[*]}; m=m+3 )) #loop through process array in order to display process status
+do
+	if test ${array[m]} = "R"
+	then
+		printarray+=("R")
+	elif test ${array[m]} = "W"
+	then
+		printarray+=("W")
+	elif test ${array[m]} = "F"
+	then
+		printarray+=("F")
+	else
+		printarray+=("-")
+	fi
+done
+echo $t ${printarray[@]} #display process status for time t and outputs to file
+echo $t ${printarray[@]} >> output4
+printarray=() #clear print array for the next loop
+
+n=0
+for (( n=1; n<${#array[*]}; n=n+3 )) #loop through to find the running process
+do
+	if test ${array[n]} = "R"
+	then
+		array[n]="W" #amend running process to "W"
+		if test "${array[n+1]}" -ge 0 #test to make sure completed processed do not get added back into the queue
+		then
+			Qarray+=("${array[n-1]}") #move previously running process to the end of the queue
+		fi
+	fi
+done
+
+n=0
+	for (( n=0; n<${#array[*]}; n=n+3 )) #loop through each process in original array
+	do
+		if test "${array[n+2]}" -eq 0
+		then
+	  		array[n+1]="F"
+		fi
+	done
+
+(( count=count+1 ))
+(( t=t+1 ))
+(( sumNUT=sumNUT-1 ))
+done

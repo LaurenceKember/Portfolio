@@ -1,0 +1,24 @@
+data1.txt data file entered
+A 1 2
+B 2 3
+C 0 4
+D 0 5
+E 2 2
+	A 	B 	C 	D 	E 	
+0	-	-	R	W	-	
+1	W	-	W	R	-	
+2	W	W	R	W	W	
+3	R	W	W	W	W	
+4	W	W	W	R	W	
+5	W	R	W	W	W	
+6	W	W	W	W	R	
+7	W	W	R	W	W	
+8	R	W	W	W	W	
+9	F	W	W	R	W	
+10	F	R	W	W	W	
+11	F	W	W	W	R	
+12	F	W	R	W	F	
+13	F	W	F	R	F	
+14	F	R	F	W	F	
+15	F	F	F	R	F	
+16	F	F	F	F	F	
