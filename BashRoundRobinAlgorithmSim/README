@@ -2,4 +2,11 @@ The main script is entitled "rr2"
 The purpose of this script is to simulate the round robin algorithm running on a processor.
 The data files are the input and should be run in cmd as follows: ./rr2 datafile
 The data_out files have the original input data for each data file as well as the expected output
+In the data files the letter represents a process, the first number the time at which it gets passed to the processor and the second number the total time quanta required for this process to complete
 The output files contain the actual output, however this output is also printed to the console 
+In the output the letters at the top represent processes with the time in which they are passed to the processor defined in the data files
+The numbers on the side of the output represent time quanta
+- means that the process has not been passed to the processor
+R means that the process is currently running
+W means that the process is waiting
+F means that the process has finished
