@@ -1,5 +1,5 @@
 The main script is entitled "rr2"
 The purpose of this script is to simulate the round robin algorithm running on a processor.
-The data files are the input and should be run in cmd as follows: ./rrs datafile
+The data files are the input and should be run in cmd as follows: ./rr2 datafile
 The data_out files have the original input data for each data file as well as the expected output
 The output files contain the actual output, however this output is also printed to the console 
