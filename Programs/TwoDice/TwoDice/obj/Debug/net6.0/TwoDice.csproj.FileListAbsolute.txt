@@ -1,0 +1,30 @@
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/bin/Debug/net6.0/TwoDice
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/bin/Debug/net6.0/TwoDice.deps.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/bin/Debug/net6.0/TwoDice.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/bin/Debug/net6.0/TwoDice.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/bin/Debug/net6.0/TwoDice.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/obj/Debug/net6.0/refint/TwoDice.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TwoDice/TwoDice/obj/Debug/net6.0/ref/TwoDice.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/bin/Debug/net6.0/TwoDice
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/bin/Debug/net6.0/TwoDice.deps.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/bin/Debug/net6.0/TwoDice.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/bin/Debug/net6.0/TwoDice.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/bin/Debug/net6.0/TwoDice.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/obj/Debug/net6.0/refint/TwoDice.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/obj/Debug/net6.0/TwoDice.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TwoDice/TwoDice/obj/Debug/net6.0/ref/TwoDice.dll

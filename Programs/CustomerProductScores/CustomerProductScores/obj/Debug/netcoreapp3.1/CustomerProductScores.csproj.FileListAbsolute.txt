@@ -1,0 +1,42 @@
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.deps.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.runtimeconfig.dev.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.deps.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.runtimeconfig.dev.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.deps.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.runtimeconfig.dev.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/bin/Debug/netcoreapp3.1/CustomerProductScores.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/CustomerProductScores/CustomerProductScores/obj/Debug/netcoreapp3.1/CustomerProductScores.genruntimeconfig.cache

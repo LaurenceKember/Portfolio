@@ -1,0 +1,30 @@
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/bin/Debug/net6.0/AverageScores
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/bin/Debug/net6.0/AverageScores.deps.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/bin/Debug/net6.0/AverageScores.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/bin/Debug/net6.0/AverageScores.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/bin/Debug/net6.0/AverageScores.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/obj/Debug/net6.0/refint/AverageScores.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/AverageScores/AverageScores/obj/Debug/net6.0/ref/AverageScores.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/bin/Debug/net6.0/AverageScores
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/bin/Debug/net6.0/AverageScores.deps.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/bin/Debug/net6.0/AverageScores.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/bin/Debug/net6.0/AverageScores.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/bin/Debug/net6.0/AverageScores.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/obj/Debug/net6.0/refint/AverageScores.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/obj/Debug/net6.0/AverageScores.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 3/AverageScores/AverageScores/obj/Debug/net6.0/ref/AverageScores.dll

@@ -1,0 +1,15 @@
+/Users/larryk/Documents/Portfolio/People/bin/Debug/net7.0/People
+/Users/larryk/Documents/Portfolio/People/bin/Debug/net7.0/People.deps.json
+/Users/larryk/Documents/Portfolio/People/bin/Debug/net7.0/People.runtimeconfig.json
+/Users/larryk/Documents/Portfolio/People/bin/Debug/net7.0/People.dll
+/Users/larryk/Documents/Portfolio/People/bin/Debug/net7.0/People.pdb
+/Users/larryk/Documents/Portfolio/People/obj/Debug/net7.0/People.csproj.AssemblyReference.cache
+/Users/larryk/Documents/Portfolio/People/obj/Debug/net7.0/People.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/Documents/Portfolio/People/obj/Debug/net7.0/People.AssemblyInfoInputs.cache
+/Users/larryk/Documents/Portfolio/People/obj/Debug/net7.0/People.AssemblyInfo.cs
+/Users/larryk/Documents/Portfolio/People/obj/Debug/net7.0/People.csproj.CoreCompileInputs.cache
+/Users/larryk/Documents/Portfolio/People/obj/Debug/net7.0/People.dll
+/Users/larryk/Documents/Portfolio/People/obj/Debug/net7.0/refint/People.dll
+/Users/larryk/Documents/Portfolio/People/obj/Debug/net7.0/People.pdb
+/Users/larryk/Documents/Portfolio/People/obj/Debug/net7.0/People.genruntimeconfig.cache
+/Users/larryk/Documents/Portfolio/People/obj/Debug/net7.0/ref/People.dll

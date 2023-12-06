@@ -1,0 +1,30 @@
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/bin/Debug/net6.0/Shapes
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/bin/Debug/net6.0/Shapes.deps.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/bin/Debug/net6.0/Shapes.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/bin/Debug/net6.0/Shapes.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/bin/Debug/net6.0/Shapes.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/obj/Debug/net6.0/Shapes.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/obj/Debug/net6.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/obj/Debug/net6.0/Shapes.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/obj/Debug/net6.0/Shapes.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/obj/Debug/net6.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/obj/Debug/net6.0/Shapes.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/obj/Debug/net6.0/refint/Shapes.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/obj/Debug/net6.0/Shapes.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/obj/Debug/net6.0/Shapes.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 4/Shapes/Shapes/obj/Debug/net6.0/ref/Shapes.dll
+/Users/larryk/Documents/Portfolio/Shapes/bin/Debug/net6.0/Shapes
+/Users/larryk/Documents/Portfolio/Shapes/bin/Debug/net6.0/Shapes.deps.json
+/Users/larryk/Documents/Portfolio/Shapes/bin/Debug/net6.0/Shapes.runtimeconfig.json
+/Users/larryk/Documents/Portfolio/Shapes/bin/Debug/net6.0/Shapes.dll
+/Users/larryk/Documents/Portfolio/Shapes/bin/Debug/net6.0/Shapes.pdb
+/Users/larryk/Documents/Portfolio/Shapes/obj/Debug/net6.0/Shapes.csproj.AssemblyReference.cache
+/Users/larryk/Documents/Portfolio/Shapes/obj/Debug/net6.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/Documents/Portfolio/Shapes/obj/Debug/net6.0/Shapes.AssemblyInfoInputs.cache
+/Users/larryk/Documents/Portfolio/Shapes/obj/Debug/net6.0/Shapes.AssemblyInfo.cs
+/Users/larryk/Documents/Portfolio/Shapes/obj/Debug/net6.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/larryk/Documents/Portfolio/Shapes/obj/Debug/net6.0/Shapes.dll
+/Users/larryk/Documents/Portfolio/Shapes/obj/Debug/net6.0/refint/Shapes.dll
+/Users/larryk/Documents/Portfolio/Shapes/obj/Debug/net6.0/Shapes.pdb
+/Users/larryk/Documents/Portfolio/Shapes/obj/Debug/net6.0/Shapes.genruntimeconfig.cache
+/Users/larryk/Documents/Portfolio/Shapes/obj/Debug/net6.0/ref/Shapes.dll

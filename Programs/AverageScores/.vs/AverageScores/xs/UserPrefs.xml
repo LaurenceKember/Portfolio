@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0549291B-55F6-472D-ABBB-B620E4C22FE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AverageScores/Program.cs">
+    <Files>
+      <File FileName="AverageScores/Program.cs" Line="7" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AverageScores" expanded="True">
+            <Node name="AverageScores" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AverageScores PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

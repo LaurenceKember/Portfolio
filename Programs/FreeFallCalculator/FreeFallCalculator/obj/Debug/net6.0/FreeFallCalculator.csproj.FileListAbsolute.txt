@@ -1,0 +1,30 @@
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/bin/Debug/net6.0/FreeFallCalculator
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/bin/Debug/net6.0/FreeFallCalculator.deps.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/bin/Debug/net6.0/FreeFallCalculator.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/bin/Debug/net6.0/FreeFallCalculator.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/bin/Debug/net6.0/FreeFallCalculator.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/refint/FreeFallCalculator.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/ref/FreeFallCalculator.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/bin/Debug/net6.0/FreeFallCalculator
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/bin/Debug/net6.0/FreeFallCalculator.deps.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/bin/Debug/net6.0/FreeFallCalculator.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/bin/Debug/net6.0/FreeFallCalculator.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/bin/Debug/net6.0/FreeFallCalculator.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/refint/FreeFallCalculator.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/FreeFallCalculator.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 1/FreeFallCalculator/FreeFallCalculator/obj/Debug/net6.0/ref/FreeFallCalculator.dll

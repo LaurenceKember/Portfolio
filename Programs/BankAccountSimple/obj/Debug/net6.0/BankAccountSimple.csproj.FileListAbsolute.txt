@@ -1,0 +1,15 @@
+/Users/larryk/Documents/Portfolio/BankAccountSimple/bin/Debug/net6.0/BankAccountSimple
+/Users/larryk/Documents/Portfolio/BankAccountSimple/bin/Debug/net6.0/BankAccountSimple.deps.json
+/Users/larryk/Documents/Portfolio/BankAccountSimple/bin/Debug/net6.0/BankAccountSimple.runtimeconfig.json
+/Users/larryk/Documents/Portfolio/BankAccountSimple/bin/Debug/net6.0/BankAccountSimple.dll
+/Users/larryk/Documents/Portfolio/BankAccountSimple/bin/Debug/net6.0/BankAccountSimple.pdb
+/Users/larryk/Documents/Portfolio/BankAccountSimple/obj/Debug/net6.0/BankAccountSimple.csproj.AssemblyReference.cache
+/Users/larryk/Documents/Portfolio/BankAccountSimple/obj/Debug/net6.0/BankAccountSimple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/Documents/Portfolio/BankAccountSimple/obj/Debug/net6.0/BankAccountSimple.AssemblyInfoInputs.cache
+/Users/larryk/Documents/Portfolio/BankAccountSimple/obj/Debug/net6.0/BankAccountSimple.AssemblyInfo.cs
+/Users/larryk/Documents/Portfolio/BankAccountSimple/obj/Debug/net6.0/BankAccountSimple.csproj.CoreCompileInputs.cache
+/Users/larryk/Documents/Portfolio/BankAccountSimple/obj/Debug/net6.0/BankAccountSimple.dll
+/Users/larryk/Documents/Portfolio/BankAccountSimple/obj/Debug/net6.0/refint/BankAccountSimple.dll
+/Users/larryk/Documents/Portfolio/BankAccountSimple/obj/Debug/net6.0/BankAccountSimple.pdb
+/Users/larryk/Documents/Portfolio/BankAccountSimple/obj/Debug/net6.0/BankAccountSimple.genruntimeconfig.cache
+/Users/larryk/Documents/Portfolio/BankAccountSimple/obj/Debug/net6.0/ref/BankAccountSimple.dll

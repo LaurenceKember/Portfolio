@@ -1,0 +1,15 @@
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/obj/Debug/net7.0/BinarySearch.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/obj/Debug/net7.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/obj/Debug/net7.0/BinarySearch.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/obj/Debug/net7.0/BinarySearch.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/obj/Debug/net7.0/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/bin/Debug/net7.0/BinarySearch
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/bin/Debug/net7.0/BinarySearch.deps.json
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/bin/Debug/net7.0/BinarySearch.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/bin/Debug/net7.0/BinarySearch.dll
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/bin/Debug/net7.0/BinarySearch.pdb
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/obj/Debug/net7.0/BinarySearch.dll
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/obj/Debug/net7.0/refint/BinarySearch.dll
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/obj/Debug/net7.0/BinarySearch.pdb
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/obj/Debug/net7.0/BinarySearch.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Semester2/Data Structures & Algorithms/Tutorial2/BinarySearch/BinarySearch/obj/Debug/net7.0/ref/BinarySearch.dll

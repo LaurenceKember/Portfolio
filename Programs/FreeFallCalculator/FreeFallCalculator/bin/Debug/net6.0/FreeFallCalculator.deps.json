@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FreeFallCalculator/1.0.0": {
+        "runtime": {
+          "FreeFallCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FreeFallCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

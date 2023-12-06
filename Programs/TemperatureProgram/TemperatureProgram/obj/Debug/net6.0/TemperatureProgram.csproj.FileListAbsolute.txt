@@ -1,0 +1,30 @@
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/bin/Debug/net6.0/TemperatureProgram
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/bin/Debug/net6.0/TemperatureProgram.deps.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/bin/Debug/net6.0/TemperatureProgram.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/bin/Debug/net6.0/TemperatureProgram.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/bin/Debug/net6.0/TemperatureProgram.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/refint/TemperatureProgram.dll
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.pdb
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Object Orientated Programming/Programs/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/ref/TemperatureProgram.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/bin/Debug/net6.0/TemperatureProgram
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/bin/Debug/net6.0/TemperatureProgram.deps.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/bin/Debug/net6.0/TemperatureProgram.runtimeconfig.json
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/bin/Debug/net6.0/TemperatureProgram.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/bin/Debug/net6.0/TemperatureProgram.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.csproj.AssemblyReference.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.AssemblyInfoInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.AssemblyInfo.cs
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.csproj.CoreCompileInputs.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/refint/TemperatureProgram.dll
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.pdb
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/TemperatureProgram.genruntimeconfig.cache
+/Users/larryk/MSc Software Engineering/Semester1/Object Orientated Programming/Tutorials/Tutorial 2/TemperatureProgram/TemperatureProgram/obj/Debug/net6.0/ref/TemperatureProgram.dll

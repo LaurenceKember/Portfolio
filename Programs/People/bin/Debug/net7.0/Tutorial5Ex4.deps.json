@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Tutorial5Ex4/1.0.0": {
+        "runtime": {
+          "Tutorial5Ex4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tutorial5Ex4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/larryk/Documents/Portfolio/BankAccount2/bin/Debug/net7.0/BankAccount2
+/Users/larryk/Documents/Portfolio/BankAccount2/bin/Debug/net7.0/BankAccount2.deps.json
+/Users/larryk/Documents/Portfolio/BankAccount2/bin/Debug/net7.0/BankAccount2.runtimeconfig.json
+/Users/larryk/Documents/Portfolio/BankAccount2/bin/Debug/net7.0/BankAccount2.dll
+/Users/larryk/Documents/Portfolio/BankAccount2/bin/Debug/net7.0/BankAccount2.pdb
+/Users/larryk/Documents/Portfolio/BankAccount2/obj/Debug/net7.0/BankAccount2.csproj.AssemblyReference.cache
+/Users/larryk/Documents/Portfolio/BankAccount2/obj/Debug/net7.0/BankAccount2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryk/Documents/Portfolio/BankAccount2/obj/Debug/net7.0/BankAccount2.AssemblyInfoInputs.cache
+/Users/larryk/Documents/Portfolio/BankAccount2/obj/Debug/net7.0/BankAccount2.AssemblyInfo.cs
+/Users/larryk/Documents/Portfolio/BankAccount2/obj/Debug/net7.0/BankAccount2.csproj.CoreCompileInputs.cache
+/Users/larryk/Documents/Portfolio/BankAccount2/obj/Debug/net7.0/BankAccount2.dll
+/Users/larryk/Documents/Portfolio/BankAccount2/obj/Debug/net7.0/refint/BankAccount2.dll
+/Users/larryk/Documents/Portfolio/BankAccount2/obj/Debug/net7.0/BankAccount2.pdb
+/Users/larryk/Documents/Portfolio/BankAccount2/obj/Debug/net7.0/BankAccount2.genruntimeconfig.cache
+/Users/larryk/Documents/Portfolio/BankAccount2/obj/Debug/net7.0/ref/BankAccount2.dll
